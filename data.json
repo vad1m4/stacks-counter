@@ -1,22 +1,14 @@
 [
     {
-        "block": "Granite",
-        "quantity": 1188
+        "block": "Test",
+        "quantity": 2301
     },
     {
-        "block": "Smooth Sandstone",
-        "quantity": 1723
+        "block": "Test",
+        "quantity": 48
     },
     {
-        "block": "Smooth_Sandstone Stairs",
-        "quantity": 1057
-    },
-    {
-        "block": "Cut Sandstone",
-        "quantity": 340
-    },
-    {
-        "block": "Cut Sandstone Slab ",
-        "quantity": 343
+        "block": "Test",
+        "quantity": 29299
     }
 ]
